@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class rawayEditorTarget : TargetRules
 {
-	public rawayEditorTarget( TargetInfo Target) : base(Target)
+	public rawayEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
