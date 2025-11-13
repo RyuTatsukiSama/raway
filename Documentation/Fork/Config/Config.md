@@ -1,6 +1,6 @@
 # Configuration
 
-In this section, i will explain you how to download Fork and Git
+In this section, i will explain you how to download and config Fork and Git
 
 ## Download
 
@@ -24,7 +24,7 @@ Enter your Github username, your email link to your Github account and the folde
 
 Personnaly I put it here C:\Users\\%USERPROFILE%\Documents\Github, simply in your folder Document, in a sub folder " GitHub ", but you can put it where you want.
 
-For exemple : 
+For exemple :
 
 ![Login Complete](./LoginComplete.png)
 
