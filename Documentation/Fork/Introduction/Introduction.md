@@ -1,26 +1,26 @@
 # Introduction
 
-In this section, i will present you Fork.
+In this section, i will present you `Fork`.
 
 ## Precision
 
 One thing important the difference between Git, Fork and GitHub
 
-Git is the tool for exchange file (to simplify), like SVN, you use it with command line
+`Git` is the tool for exchange file (to simplify), like `SVN`, you use it with command line
 
-Fork is a Git client to use it more easly, like TortoiseSVN.
+`Fork` is a `Git` client to use it more easly, like `TortoiseSVN`.
 
-Github is a platform where you can host Git folder, or Git Repo. For svn, it's the server of Creajeux that is the equivalent to Github
+`Github` is a platform where you can host Git folder, or Git Repo. For `SVN`, it's the server of Creajeux that is the equivalent to Github
 
 ## Get the repo (or clone the repo)
 
-This is the equivalent of " checkout " in SVN, see more [here](../GitvsSVN/GitvsSVN.md)
+This is the equivalent of `checkout` in SVN, see more [here](../GitvsSVN/GitvsSVN.md)
 
-After installing Fork and open it you will see this
+After installing `Fork` and open it you will see this
 
 ![Fork home page](image.png)
 
-Go to the top left -> file -> clone...
+Go to the top `left` -> `file` -> `clone...`
 
 ![Clone](image-1.png)
 
@@ -30,7 +30,7 @@ A new window will open
 
 Copy this link https://github.com/RyuTatsukiSama/raway, this is the link of the repo git
 
-Now past it into, repository URL (Fork will automatically do it, but just in case)
+Now past it into, `repository URL` (Fork will automatically do it, but just in case)
 
 ![copy url](image-3.png)
 
@@ -96,11 +96,11 @@ You will see this
 
 ![local changes UI](image-13.png)
 
-First you have the Unstaged
+First you have the `Unstaged`
 
 ![unstaged](image-14.png)
 
-That all the file that are not add (unstaged) to your next commit
+That all the file that are not add or `unstaged` to your next commit
 
 Below you have the Staged tab
 
