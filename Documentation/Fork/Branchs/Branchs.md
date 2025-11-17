@@ -92,4 +92,4 @@ Congratulations you understand how to start working with branches
 
 # Next Section
 
-That is the end of this section, now you can go to the next [section](../PullRequest/PullRequest.md)
+That is the end of this section, now you can go to the next [section](../Workflow/Workflow.md)
