@@ -32,6 +32,15 @@ So go the the `local changes` window
 
 ## Diagram
 
-![Diagram](<Diagramme sans nom.drawio.png>)
+```mermaid
+graph LR
+    A("Work Space") -->|"Commit"| B("Repo on local")
+    B -->|"Push"| C("Repo on server")
+    
+    C -->|"Fetch"| B
+    B -->|"Merge/Rebase"| A
+
+    C -->|"Pull"| A
+```
 
 # Next section
